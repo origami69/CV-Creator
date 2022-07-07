@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/origami69/CV-Creator/static/css/main.0d290a54.css",
-    "main.js": "/origami69/CV-Creator/static/js/main.6da46910.js",
-    "static/js/787.34a20539.chunk.js": "/origami69/CV-Creator/static/js/787.34a20539.chunk.js",
-    "index.html": "/origami69/CV-Creator/index.html",
-    "main.0d290a54.css.map": "/origami69/CV-Creator/static/css/main.0d290a54.css.map",
-    "main.6da46910.js.map": "/origami69/CV-Creator/static/js/main.6da46910.js.map",
-    "787.34a20539.chunk.js.map": "/origami69/CV-Creator/static/js/787.34a20539.chunk.js.map"
+    "main.css": "/CV-Creator/static/css/main.0d290a54.css",
+    "main.js": "/CV-Creator/static/js/main.3eb11cbb.js",
+    "static/js/787.34a20539.chunk.js": "/CV-Creator/static/js/787.34a20539.chunk.js",
+    "index.html": "/CV-Creator/index.html",
+    "main.0d290a54.css.map": "/CV-Creator/static/css/main.0d290a54.css.map",
+    "main.3eb11cbb.js.map": "/CV-Creator/static/js/main.3eb11cbb.js.map",
+    "787.34a20539.chunk.js.map": "/CV-Creator/static/js/787.34a20539.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d290a54.css",
-    "static/js/main.6da46910.js"
+    "static/js/main.3eb11cbb.js"
   ]
 }
